@@ -1,0 +1,8 @@
+div{
+    transition: text-shadow 1s ease;
+}
+
+.blink{
+    text-shadow: 0 0 10px red;
+    transition: text-shadow 1s ease;
+}
